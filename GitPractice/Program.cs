@@ -12,8 +12,10 @@ namespace GitPractice
         {
             Console.WriteLine("This is the initial commit.");
             Console.WriteLine("This is my second commit to master.");
-            
+
             Console.WriteLine("Now I branch.");
+
+            Console.WriteLine("This is my second branch. Booyah!");
             Console.WriteLine("Here is my master commit message for the merge.");
 
         }
