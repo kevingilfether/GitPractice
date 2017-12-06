@@ -10,6 +10,8 @@ namespace GitPractice
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("This is the initial commit.");
+            Console.WriteLine("This is my second commit to master.");
         }
     }
 }
