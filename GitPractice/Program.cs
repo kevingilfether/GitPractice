@@ -12,6 +12,8 @@ namespace GitPractice
         {
             Console.WriteLine("This is the initial commit.");
             Console.WriteLine("This is my second commit to master.");
+
+            Console.WriteLine("This is my second branch. Booyah!");
         }
     }
 }
